@@ -1,0 +1,10 @@
+---
+Hitpoints:
+Armour:
+Strength:
+Constitution:
+Intelligence:
+Charisma:
+Speed:
+Dexterity:
+---
